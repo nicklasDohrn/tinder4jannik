@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="band1_name"><b>Zebrahead</b> 120km</string>
+    <string name="band1_alter"><b>Alter:</b> siehe Sum 41</string>
+    <string name="band1_hobbies"><b>Hobbies:</b> irgendein Text irgendein Text irgendein Text irgendein Text irgendein Text irgendein Text irgendein Text irgendein Text irgendein Text irgendein Text irgendein Text irgendein Text</string>
+    <string name="band1_bes"><b>Besonderheiten:</b> irgendein Text</string>
+</resources>
